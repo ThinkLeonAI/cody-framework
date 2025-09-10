@@ -96,11 +96,11 @@ The **USER** at times may want to tell the **AGENT** about a particular file tha
 > ### `:cody relearn`
 **[AGENT TODO: Read and execute {{cfCommands}}/relearn.md]** 
 
-> ### `:cody version add`
-**[AGENT TODO: Read and execute {{cfCommands}}/version-add.md]** 
+> ### `:cody add version`
+**[AGENT TODO: Read and execute {{cfCommands}}/add-version.md]**
 
-> ### `:cody version build`
-**[AGENT TODO: Read and execute {{cfCommands}}/version-build.md]** 
+> ### `:cody build version`
+**[AGENT TODO: Read and execute {{cfCommands}}/build-version.md]**
 
 ## Design System Components
   - When you execute commands in the {{cfCommands}} folder, you will encounter XML tags.

@@ -1,5 +1,5 @@
 ---
-command: ":cody version build"
+command: ":cody build version"
 description: Creates a version using the feature-backlog.md file.  The USER will pick which version to build
 ---
 
@@ -60,8 +60,8 @@ command:
 
 Otherwise, you can continue working on a new version with:
 
-:cody version build (work on another version in the backlog)
-:cody version add (add a new version to the backlog)
+:cody build version (work on another version in the backlog)
+:cody add version (add a new version to the backlog)
 
 What would you like to do next?
 ```
